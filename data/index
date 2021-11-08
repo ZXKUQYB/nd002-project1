@@ -1,1 +1,5 @@
-
+Filename                     Data Origin
+--------------------------------------------------------------------------------
+results_city_data.csv        Query results of the city level data
+results_city_list.csv        Query results of the cities and countries lists
+results_global_data.csv      Query results of the global data
