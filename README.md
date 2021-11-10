@@ -12,7 +12,7 @@ Alternatively, you can also run it in your own local environment if you prefer, 
 
 ### Additional Information
 
-There are also two supplemental document files provided in this repo for your information. While the PDF file is a summary report of the project, the HTML file is simply a soft copy of the Jupyter notebook file created by using [nbconvert](https://nbconvert.readthedocs.io), and there are some ways for you to [preview its contents](https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview) online at ease if you want.
+There are also two supplemental document files provided in this repo for your information, in case you want to see the results directly without running program code. While the PDF file is a summary report of the project itself, the HTML file is simply a soft copy of the Jupyter notebook file created by using [nbconvert](https://nbconvert.readthedocs.io), and there are some ways for you to [preview its contents online](https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview) at ease if you want.
 
 ### License
 
